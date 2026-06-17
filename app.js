@@ -7,3 +7,5 @@ while(true){}
 for(let i=0;i<=arr.length;i++){
  console.log(arr[i]);
 }
+
+const password = 123456789;
